@@ -17,7 +17,7 @@
     <Button
         android:layout_alignParentRight="true"
         android:id="@+id/buttongallery"
-        android:text="Camera"
+        android:text="Gallery"
         android:drawableLeft="@android:drawable/ic_menu_gallery"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
